@@ -1,0 +1,34 @@
+tbody tr td
+{
+	padding               : 5px 10px;
+  color                 : #666;
+}
+tbody tr:hover
+{
+  background            : #FFF;
+}
+
+tbody tr:hover td
+{
+  color                 : #FF0000;
+}
+tfoot td,
+tfoot th
+{
+  border-left           : none;
+  border-top            : 1px solid #CCC;
+	padding               : 4px;
+  background            : #FFF;
+  color                 : #666;
+}
+
+.chart{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.chart_date {
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
